@@ -10,7 +10,7 @@ A portfolio of programming projects made for Epicodus. Includes a list of projec
 * Bootstrap
 
 ## Setup Instructions
-1. [Click here](https://github.io/yeungm95/programming-portfolio) to check out the webpage hosted on GitHub pages
+1. [Click here](https://yeungm95.github.io/programming-portfolio/) to check out the webpage hosted on GitHub pages
 
 ## Author
 * Designed by: Michael Yeung 
