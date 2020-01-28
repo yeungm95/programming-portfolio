@@ -2,7 +2,7 @@
 By Michael Yeung
 
 ## Description 
-A portfolio of programming projects made for Epicodus. Includes a list of projects with active links to their GitHub respositories, background information on why I like programming, and a paragraph of my current interests and hobbies.
+A portfolio of programming projects made for Epicodus. Includes a list of projects with active links to their GitHub respositories, background information on why I'm delving into programming, and a paragraph of my current interests and hobbies.
 
 ## Built With
 * HTML
@@ -10,7 +10,7 @@ A portfolio of programming projects made for Epicodus. Includes a list of projec
 * Bootstrap
 
 ## Setup Instructions
-1. [Click here](placeholder) to check out the webpage hosted on GitHub pages
+1. [Click here](https://github.io/yeungm95/programming-portfolio) to check out the webpage hosted on GitHub pages
 
 ## Author
 * Designed by: Michael Yeung 
