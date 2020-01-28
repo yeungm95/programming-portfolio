@@ -28,7 +28,13 @@ body {
 
 }
 
-.images {
+h4 {
+  font-weight: bold;
+}
+
+.about {
   border: 2px solid grey;
   padding: 10px;
+  margin: 10px;
+}
 }
