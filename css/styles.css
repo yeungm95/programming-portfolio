@@ -15,3 +15,8 @@ body {
   background-image: url(https://tulsaspecialtysales.com/image/277595-full_cool-green-and-blue-abstract-backgrounds.jpg);
   background-size: cover;
 }
+
+.practiced {
+  font-weight: bold;
+  background-color: cornsilk;
+}
